@@ -1,13 +1,12 @@
 # CI-CD
 
-> This repository shows the procedure done to create two jobs using Jenkins.
+> This repository shows the procedure done to create one job using Jenkins and Maven.
 
 ##  Environment
-This project was developed on Jenkins 2.361.3 LTS.
+This project was developed on Jenkins 2.361.3 LTS and Maven Integration plugin Version 3.20.
 
 ### File Descriptions
-- ```Homework01_Job01_JCG.pdf``` contains a 10-page pdf file with the procedure done to create a job.
-- ```Homework01_Job02_JCG.pdf``` contains a 11-page pdf file with the procedure done to create a job.
+- ```Homework02_Job01_JCG.pdf``` contains a 19-page pdf file with the procedure done to create a job.
 
 ## Author
 
